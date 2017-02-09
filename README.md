@@ -1,0 +1,2 @@
+# Decryption_Substitution_Ciphers
+program that does a frequency analysis on a file. A key is created based on that frequency analysis. The file is then displayed using the initial key. The user of the program is then asked if they want to make a change to the key. They will be asked what character in the decrypted version of the text they want to change and what that character should decrypt to instead.
